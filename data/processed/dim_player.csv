@@ -1,0 +1,17 @@
+player_name,total_runs,total_balls_faced,total_wickets,total_balls_bowled,matches_played,primary_role,player_id,batting_hand,bowling_style
+Bowler 1,0.0,0.0,0.0,102.0,1,Bowler,reg_a5e37a3,Right-hand bat,Right-arm pace/spin
+Bowler 2,0.0,0.0,0.0,102.0,1,Bowler,reg_d67e385,Right-hand bat,Right-arm pace/spin
+Bowler 3,0.0,0.0,0.0,102.0,1,Bowler,reg_0571dcd,Right-hand bat,Right-arm pace/spin
+Bowler 4,0.0,0.0,0.0,98.0,1,Bowler,reg_3218316,Right-hand bat,Right-arm pace/spin
+Bowler 5,0.0,0.0,0.0,96.0,1,Bowler,reg_71ce19e,Right-hand bat,Right-arm pace/spin
+Player 1,1113.0,46.0,0.0,0.0,1,Batter,reg_3ebe2b4,Right-hand bat,Right-arm pace/spin
+Player 10,1030.0,45.0,0.0,0.0,1,Batter,reg_2f1e6e7,Right-hand bat,Right-arm pace/spin
+Player 11,1044.0,45.0,0.0,0.0,1,Batter,reg_337e9b6,Right-hand bat,Right-arm pace/spin
+Player 2,1050.0,46.0,0.0,0.0,1,Batter,reg_3ab6012,Right-hand bat,Right-arm pace/spin
+Player 3,1010.0,46.0,0.0,0.0,1,Batter,reg_2d87180,Right-hand bat,Right-arm pace/spin
+Player 4,1107.0,46.0,0.0,0.0,1,Batter,reg_0793f90,Right-hand bat,Right-arm pace/spin
+Player 5,1022.0,46.0,0.0,0.0,1,Batter,reg_052c133,Right-hand bat,Right-arm pace/spin
+Player 6,1147.0,45.0,0.0,0.0,1,Batter,reg_5e003c7,Right-hand bat,Right-arm pace/spin
+Player 7,994.0,45.0,0.0,0.0,1,Batter,reg_4d7d193,Right-hand bat,Right-arm pace/spin
+Player 8,917.0,45.0,0.0,0.0,1,Batter,reg_fb840c0,Right-hand bat,Right-arm pace/spin
+Player 9,1151.0,45.0,0.0,0.0,1,Batter,reg_f22f70d,Right-hand bat,Right-arm pace/spin

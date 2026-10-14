@@ -1,0 +1,17 @@
+match_id,player_name,team,opponent,runs_scored,balls_faced,fours,sixes,runs_powerplay,runs_middle,runs_death,player_dismissed,is_dismissed,batting_strike_rate,balls_bowled,runs_conceded,dot_balls_bowled,wickets_taken,overs_bowled,bowling_economy,season,match_date,venue,player_match_id
+1,Bowler 1,Franchise B,Franchise A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,2487.0,0.0,0.0,17.0,146.29,2026,2026-01-01,Standard Stadium,1
+1,Bowler 2,Franchise B,Franchise A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,2256.0,0.0,0.0,17.0,132.71,2026,2026-01-01,Standard Stadium,2
+1,Bowler 3,Franchise B,Franchise A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,2540.0,0.0,0.0,17.0,149.41,2026,2026-01-01,Standard Stadium,3
+1,Bowler 4,Franchise B,Franchise A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,98.0,2334.0,0.0,0.0,16.2,142.9,2026,2026-01-01,Standard Stadium,4
+1,Bowler 5,Franchise B,Franchise A,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0,2277.0,0.0,0.0,16.0,142.31,2026,2026-01-01,Standard Stadium,5
+1,Player 1,Franchise A,Franchise B,1113.0,46.0,0.0,1.0,1113.0,0.0,0.0,0.0,0.0,2419.57,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,6
+1,Player 10,Franchise A,Franchise B,1030.0,45.0,0.0,1.0,1030.0,0.0,0.0,0.0,0.0,2288.89,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,7
+1,Player 11,Franchise A,Franchise B,1044.0,45.0,1.0,0.0,1044.0,0.0,0.0,0.0,0.0,2320.0,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,8
+1,Player 2,Franchise A,Franchise B,1050.0,46.0,0.0,0.0,1050.0,0.0,0.0,0.0,0.0,2282.61,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,9
+1,Player 3,Franchise A,Franchise B,1010.0,46.0,0.0,1.0,1010.0,0.0,0.0,0.0,0.0,2195.65,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,10
+1,Player 4,Franchise A,Franchise B,1107.0,46.0,0.0,0.0,1107.0,0.0,0.0,0.0,0.0,2406.52,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,11
+1,Player 5,Franchise A,Franchise B,1022.0,46.0,0.0,1.0,1022.0,0.0,0.0,0.0,0.0,2221.74,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,12
+1,Player 6,Franchise A,Franchise B,1147.0,45.0,0.0,1.0,1147.0,0.0,0.0,0.0,0.0,2548.89,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,13
+1,Player 7,Franchise A,Franchise B,994.0,45.0,1.0,0.0,994.0,0.0,0.0,0.0,0.0,2208.89,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,14
+1,Player 8,Franchise A,Franchise B,917.0,45.0,0.0,0.0,917.0,0.0,0.0,0.0,0.0,2037.78,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,15
+1,Player 9,Franchise A,Franchise B,1151.0,45.0,0.0,1.0,1151.0,0.0,0.0,0.0,0.0,2557.78,0.0,0.0,0.0,0.0,0.0,0.0,2026,2026-01-01,Standard Stadium,16

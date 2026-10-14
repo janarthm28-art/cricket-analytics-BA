@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Large database & zip files (can be generated via src/data_pipeline/ingest_data.py)
+data/raw/*.zip
+*.db-journal
+
+# Keep processed tables & sample datasets
+!data/sample_batting_summary_2026.csv
+!data/processed/*.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,2 @@
+match_id,team1,team2,venue,season,match_date,winner,target_runs,win_margin,win_type,toss_winner,toss_decision,match_type,city,player_of_match,target_overs
+1,Franchise A,Franchise B,Standard Stadium,2026,2026-01-01,Franchise A,11585,10,runs,Franchise A,bat,T20,Tournament City,,20

@@ -1,0 +1,40 @@
+{
+  "dataset_type": "BATTING_SUMMARY",
+  "rows_count": 699,
+  "columns_count": 17,
+  "columns_list": [
+    "match",
+    "teamInnings",
+    "battingPos",
+    "batsmanName",
+    "runs",
+    "balls",
+    "fours",
+    "sixes",
+    "strike_rate",
+    "out/not_out",
+    "match_id",
+    "player_name",
+    "matches",
+    "team",
+    "boundary_runs",
+    "boundary_pct",
+    "tactical_role"
+  ],
+  "missing_values_report": {},
+  "ml_report": {
+    "model_type": "Batting Contribution Regression (Linear & Ridge)",
+    "target": "runs",
+    "mae": 2.04,
+    "rmse": 2.78,
+    "r2_score": 0.9779,
+    "sample_size": 699,
+    "coefficients": {
+      "balls": 0.79,
+      "fours": 2.877,
+      "sixes": 4.961,
+      "strike_rate": 0.023
+    }
+  },
+  "updated_at": "2026-10-14 12:50:42"
+}

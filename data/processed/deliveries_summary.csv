@@ -1,0 +1,499 @@
+season,innings_phase,batting_team,runs,balls,wickets,boundaries
+2007/08,Death,Chennai Super Kings,664,409,28,54
+2007/08,Death,Deccan Chargers,649,387,42,54
+2007/08,Death,Delhi Daredevils,412,276,26,37
+2007/08,Death,Kings XI Punjab,602,390,27,49
+2007/08,Death,Kolkata Knight Riders,585,334,29,33
+2007/08,Death,Mumbai Indians,496,319,31,45
+2007/08,Death,Rajasthan Royals,558,363,29,50
+2007/08,Death,Royal Challengers Bangalore,540,350,37,49
+2007/08,Middle,Chennai Super Kings,1134,850,31,87
+2007/08,Middle,Deccan Chargers,948,754,32,66
+2007/08,Middle,Delhi Daredevils,994,746,30,86
+2007/08,Middle,Kings XI Punjab,1088,790,33,91
+2007/08,Middle,Kolkata Knight Riders,823,729,30,60
+2007/08,Middle,Mumbai Indians,898,725,30,74
+2007/08,Middle,Rajasthan Royals,1291,899,38,108
+2007/08,Middle,Royal Challengers Bangalore,897,784,40,69
+2007/08,Powerplay,Chennai Super Kings,722,615,20,103
+2007/08,Powerplay,Deccan Chargers,632,527,19,85
+2007/08,Powerplay,Delhi Daredevils,712,525,21,95
+2007/08,Powerplay,Kings XI Punjab,774,559,19,91
+2007/08,Powerplay,Kolkata Knight Riders,534,494,29,69
+2007/08,Powerplay,Mumbai Indians,686,540,19,78
+2007/08,Powerplay,Rajasthan Royals,752,599,21,101
+2007/08,Powerplay,Royal Challengers Bangalore,546,525,29,69
+2009,Death,Chennai Super Kings,588,408,34,45
+2009,Death,Deccan Chargers,581,414,39,33
+2009,Death,Delhi Daredevils,596,377,30,52
+2009,Death,Kings XI Punjab,509,385,26,39
+2009,Death,Kolkata Knight Riders,570,340,24,43
+2009,Death,Mumbai Indians,584,383,34,41
+2009,Death,Rajasthan Royals,417,330,30,29
+2009,Death,Royal Challengers Bangalore,644,436,37,37
+2009,Middle,Chennai Super Kings,929,775,31,60
+2009,Middle,Deccan Chargers,1020,872,39,50
+2009,Middle,Delhi Daredevils,828,777,23,51
+2009,Middle,Kings XI Punjab,829,765,36,49
+2009,Middle,Kolkata Knight Riders,677,682,26,44
+2009,Middle,Mumbai Indians,810,721,22,55
+2009,Middle,Rajasthan Royals,806,722,38,61
+2009,Middle,Royal Challengers Bangalore,999,887,41,74
+2009,Powerplay,Chennai Super Kings,714,526,16,87
+2009,Powerplay,Deccan Chargers,807,604,23,90
+2009,Powerplay,Delhi Daredevils,707,558,22,85
+2009,Powerplay,Kings XI Punjab,590,537,25,52
+2009,Powerplay,Kolkata Knight Riders,525,500,23,56
+2009,Powerplay,Mumbai Indians,503,506,26,49
+2009,Powerplay,Rajasthan Royals,483,495,25,58
+2009,Powerplay,Royal Challengers Bangalore,637,606,28,81
+2009/10,Death,Chennai Super Kings,709,457,30,50
+2009/10,Death,Deccan Chargers,569,445,44,33
+2009/10,Death,Delhi Daredevils,547,383,22,36
+2009/10,Death,Kings XI Punjab,655,410,30,65
+2009/10,Death,Kolkata Knight Riders,588,393,25,38
+2009/10,Death,Mumbai Indians,878,485,39,81
+2009/10,Death,Rajasthan Royals,498,358,37,38
+2009/10,Death,Royal Challengers Bangalore,623,370,31,48
+2009/10,Middle,Chennai Super Kings,1132,885,35,75
+2009/10,Middle,Deccan Chargers,1090,891,38,84
+2009/10,Middle,Delhi Daredevils,891,779,38,58
+2009/10,Middle,Kings XI Punjab,949,775,32,76
+2009/10,Middle,Kolkata Knight Riders,929,788,24,70
+2009/10,Middle,Mumbai Indians,1058,888,45,69
+2009/10,Middle,Rajasthan Royals,1014,782,35,73
+2009/10,Middle,Royal Challengers Bangalore,1052,853,40,68
+2009/10,Powerplay,Chennai Super Kings,763,609,24,87
+2009/10,Powerplay,Deccan Chargers,715,607,32,80
+2009/10,Powerplay,Delhi Daredevils,717,524,28,96
+2009/10,Powerplay,Kings XI Punjab,684,531,19,93
+2009/10,Powerplay,Kolkata Knight Riders,627,535,22,91
+2009/10,Powerplay,Mumbai Indians,802,622,18,111
+2009/10,Powerplay,Rajasthan Royals,667,524,22,91
+2009/10,Powerplay,Royal Challengers Bangalore,726,604,15,98
+2011,Death,Chennai Super Kings,787,467,32,49
+2011,Death,Deccan Chargers,615,426,36,50
+2011,Death,Delhi Daredevils,602,386,36,49
+2011,Death,Kings XI Punjab,524,399,37,46
+2011,Death,Kochi Tuskers Kerala,390,305,36,26
+2011,Death,Kolkata Knight Riders,475,331,28,37
+2011,Death,Mumbai Indians,667,435,24,56
+2011,Death,Pune Warriors,436,328,25,19
+2011,Death,Rajasthan Royals,342,269,19,22
+2011,Death,Royal Challengers Bangalore,575,369,23,40
+2011,Middle,Chennai Super Kings,1159,883,21,90
+2011,Middle,Deccan Chargers,913,769,35,69
+2011,Middle,Delhi Daredevils,904,748,35,70
+2011,Middle,Kings XI Punjab,1072,775,28,86
+2011,Middle,Kochi Tuskers Kerala,831,744,27,59
+2011,Middle,Kolkata Knight Riders,923,784,21,77
+2011,Middle,Mumbai Indians,959,880,36,73
+2011,Middle,Pune Warriors,796,711,35,61
+2011,Middle,Rajasthan Royals,833,698,35,65
+2011,Middle,Royal Challengers Bangalore,1087,864,34,82
+2011,Powerplay,Chennai Super Kings,614,597,21,65
+2011,Powerplay,Deccan Chargers,612,524,16,75
+2011,Powerplay,Delhi Daredevils,581,531,24,66
+2011,Powerplay,Kings XI Punjab,628,531,23,87
+2011,Powerplay,Kochi Tuskers Kerala,680,533,23,85
+2011,Powerplay,Kolkata Knight Riders,625,560,22,77
+2011,Powerplay,Mumbai Indians,662,592,22,92
+2011,Powerplay,Pune Warriors,543,487,23,74
+2011,Powerplay,Rajasthan Royals,512,485,14,66
+2011,Powerplay,Royal Challengers Bangalore,807,602,22,103
+2012,Death,Chennai Super Kings,834,515,43,50
+2012,Death,Deccan Chargers,719,431,37,47
+2012,Death,Delhi Daredevils,518,348,28,42
+2012,Death,Kings XI Punjab,680,450,41,48
+2012,Death,Kolkata Knight Riders,653,457,36,50
+2012,Death,Mumbai Indians,648,476,46,51
+2012,Death,Pune Warriors,677,488,40,39
+2012,Death,Rajasthan Royals,731,472,34,68
+2012,Death,Royal Challengers Bangalore,794,453,34,59
+2012,Middle,Chennai Super Kings,1196,997,41,84
+2012,Middle,Deccan Chargers,942,826,33,70
+2012,Middle,Delhi Daredevils,1273,965,37,88
+2012,Middle,Kings XI Punjab,1070,882,39,90
+2012,Middle,Kolkata Knight Riders,1083,924,37,71
+2012,Middle,Mumbai Indians,1151,940,39,85
+2012,Middle,Pune Warriors,968,890,35,63
+2012,Middle,Rajasthan Royals,1054,895,36,75
+2012,Middle,Royal Challengers Bangalore,1050,838,26,62
+2012,Powerplay,Chennai Super Kings,801,671,17,89
+2012,Powerplay,Deccan Chargers,651,557,19,71
+2012,Powerplay,Delhi Daredevils,854,666,29,102
+2012,Powerplay,Kings XI Punjab,640,595,22,88
+2012,Powerplay,Kolkata Knight Riders,768,642,21,89
+2012,Powerplay,Mumbai Indians,663,638,22,83
+2012,Powerplay,Pune Warriors,676,597,29,79
+2012,Powerplay,Rajasthan Royals,731,594,14,103
+2012,Powerplay,Royal Challengers Bangalore,628,560,23,65
+2013,Death,Chennai Super Kings,860,478,28,70
+2013,Death,Delhi Daredevils,610,444,41,48
+2013,Death,Kings XI Punjab,640,411,45,47
+2013,Death,Kolkata Knight Riders,627,444,40,50
+2013,Death,Mumbai Indians,926,560,46,62
+2013,Death,Pune Warriors,620,466,50,47
+2013,Death,Rajasthan Royals,723,493,34,59
+2013,Death,Royal Challengers Bangalore,746,428,34,62
+2013,Death,Sunrisers Hyderabad,694,469,37,47
+2013,Middle,Chennai Super Kings,1157,954,38,81
+2013,Middle,Delhi Daredevils,985,889,39,77
+2013,Middle,Kings XI Punjab,1084,866,35,87
+2013,Middle,Kolkata Knight Riders,954,877,38,78
+2013,Middle,Mumbai Indians,1279,1045,45,100
+2013,Middle,Pune Warriors,966,880,37,61
+2013,Middle,Rajasthan Royals,1245,995,41,101
+2013,Middle,Royal Challengers Bangalore,1126,854,28,84
+2013,Middle,Sunrisers Hyderabad,977,932,39,70
+2013,Powerplay,Chennai Super Kings,761,666,24,90
+2013,Powerplay,Delhi Daredevils,650,609,32,86
+2013,Powerplay,Kings XI Punjab,704,589,24,110
+2013,Powerplay,Kolkata Knight Riders,709,602,24,94
+2013,Powerplay,Mumbai Indians,770,707,23,91
+2013,Powerplay,Pune Warriors,676,596,24,82
+2013,Powerplay,Rajasthan Royals,737,669,19,107
+2013,Powerplay,Royal Challengers Bangalore,729,611,16,84
+2013,Powerplay,Sunrisers Hyderabad,647,643,31,79
+2014,Death,Chennai Super Kings,744,449,23,46
+2014,Death,Delhi Daredevils,591,384,27,47
+2014,Death,Kings XI Punjab,768,458,32,52
+2014,Death,Kolkata Knight Riders,633,395,33,57
+2014,Death,Mumbai Indians,597,414,46,41
+2014,Death,Rajasthan Royals,635,383,33,37
+2014,Death,Royal Challengers Bangalore,650,374,24,38
+2014,Death,Sunrisers Hyderabad,604,400,32,36
+2014,Middle,Chennai Super Kings,1071,883,33,66
+2014,Middle,Delhi Daredevils,913,773,36,65
+2014,Middle,Kings XI Punjab,1353,944,38,105
+2014,Middle,Kolkata Knight Riders,1163,876,35,82
+2014,Middle,Mumbai Indians,1066,822,25,78
+2014,Middle,Rajasthan Royals,927,759,37,61
+2014,Middle,Royal Challengers Bangalore,937,771,30,57
+2014,Middle,Sunrisers Hyderabad,832,716,25,43
+2014,Powerplay,Chennai Super Kings,835,591,14,93
+2014,Powerplay,Delhi Daredevils,577,518,23,65
+2014,Powerplay,Kings XI Punjab,866,651,25,105
+2014,Powerplay,Kolkata Knight Riders,703,608,21,84
+2014,Powerplay,Mumbai Indians,690,564,19,78
+2014,Powerplay,Rajasthan Royals,604,531,18,69
+2014,Powerplay,Royal Challengers Bangalore,506,512,28,70
+2014,Powerplay,Sunrisers Hyderabad,666,524,17,88
+2015,Death,Chennai Super Kings,740,482,41,55
+2015,Death,Delhi Daredevils,599,377,28,42
+2015,Death,Kings XI Punjab,548,370,32,29
+2015,Death,Kolkata Knight Riders,507,308,27,49
+2015,Death,Mumbai Indians,902,473,34,62
+2015,Death,Rajasthan Royals,616,385,32,47
+2015,Death,Royal Challengers Bangalore,580,315,28,57
+2015,Death,Sunrisers Hyderabad,599,389,32,34
+2015,Middle,Chennai Super Kings,1174,952,38,92
+2015,Middle,Delhi Daredevils,967,773,30,73
+2015,Middle,Kings XI Punjab,832,739,39,46
+2015,Middle,Kolkata Knight Riders,878,673,34,76
+2015,Middle,Mumbai Indians,1136,875,29,91
+2015,Middle,Rajasthan Royals,948,729,34,67
+2015,Middle,Royal Challengers Bangalore,994,688,28,74
+2015,Middle,Sunrisers Hyderabad,905,750,30,52
+2015,Powerplay,Chennai Super Kings,811,635,25,102
+2015,Powerplay,Delhi Daredevils,602,534,18,73
+2015,Powerplay,Kings XI Punjab,638,528,34,72
+2015,Powerplay,Kolkata Knight Riders,659,491,17,81
+2015,Powerplay,Mumbai Indians,696,606,24,89
+2015,Powerplay,Rajasthan Royals,579,485,15,74
+2015,Powerplay,Royal Challengers Bangalore,737,573,23,75
+2015,Powerplay,Sunrisers Hyderabad,706,522,19,99
+2016,Death,Delhi Daredevils,542,356,25,40
+2016,Death,Gujarat Lions,581,410,36,57
+2016,Death,Kings XI Punjab,565,371,36,40
+2016,Death,Kolkata Knight Riders,564,363,29,46
+2016,Death,Mumbai Indians,631,377,28,45
+2016,Death,Rising Pune Supergiants,530,324,27,30
+2016,Death,Royal Challengers Bangalore,876,441,28,61
+2016,Death,Sunrisers Hyderabad,723,462,44,52
+2016,Middle,Delhi Daredevils,981,766,28,69
+2016,Middle,Gujarat Lions,1073,882,41,89
+2016,Middle,Kings XI Punjab,933,767,38,70
+2016,Middle,Kolkata Knight Riders,990,779,28,62
+2016,Middle,Mumbai Indians,963,773,31,65
+2016,Middle,Rising Pune Supergiants,895,734,25,56
+2016,Middle,Royal Challengers Bangalore,1327,882,26,94
+2016,Middle,Sunrisers Hyderabad,1150,939,36,93
+2016,Powerplay,Delhi Daredevils,581,523,24,70
+2016,Powerplay,Gujarat Lions,796,599,25,96
+2016,Powerplay,Kings XI Punjab,636,523,17,81
+2016,Powerplay,Kolkata Knight Riders,709,554,19,86
+2016,Powerplay,Mumbai Indians,600,524,25,75
+2016,Powerplay,Rising Pune Supergiants,638,522,16,85
+2016,Powerplay,Royal Challengers Bangalore,778,592,17,85
+2016,Powerplay,Sunrisers Hyderabad,800,633,17,86
+2017,Death,Delhi Daredevils,589,365,32,44
+2017,Death,Gujarat Lions,578,377,28,45
+2017,Death,Kings XI Punjab,542,346,31,35
+2017,Death,Kolkata Knight Riders,446,337,32,30
+2017,Death,Mumbai Indians,768,462,35,45
+2017,Death,Rising Pune Supergiant,681,440,38,46
+2017,Death,Royal Challengers Bangalore,507,364,36,26
+2017,Death,Sunrisers Hyderabad,618,386,27,57
+2017,Middle,Delhi Daredevils,946,769,39,66
+2017,Middle,Gujarat Lions,1071,772,39,82
+2017,Middle,Kings XI Punjab,971,732,27,62
+2017,Middle,Kolkata Knight Riders,1142,832,28,80
+2017,Middle,Mumbai Indians,1158,938,46,84
+2017,Middle,Rising Pune Supergiant,1004,862,30,64
+2017,Middle,Royal Challengers Bangalore,804,689,35,41
+2017,Middle,Sunrisers Hyderabad,1049,777,24,81
+2017,Powerplay,Delhi Daredevils,684,516,26,92
+2017,Powerplay,Gujarat Lions,763,526,19,91
+2017,Powerplay,Kings XI Punjab,694,525,25,92
+2017,Powerplay,Kolkata Knight Riders,896,597,28,118
+2017,Powerplay,Mumbai Indians,874,653,27,96
+2017,Powerplay,Rising Pune Supergiant,785,598,22,87
+2017,Powerplay,Royal Challengers Bangalore,534,483,26,66
+2017,Powerplay,Sunrisers Hyderabad,682,516,11,82
+2018,Death,Chennai Super Kings,852,466,19,54
+2018,Death,Delhi Daredevils,666,361,17,38
+2018,Death,Kings XI Punjab,559,354,34,35
+2018,Death,Kolkata Knight Riders,706,449,38,62
+2018,Death,Mumbai Indians,619,426,36,43
+2018,Death,Rajasthan Royals,595,394,36,38
+2018,Death,Royal Challengers Bangalore,638,378,29,38
+2018,Death,Sunrisers Hyderabad,685,491,45,42
+2018,Middle,Chennai Super Kings,1177,902,38,75
+2018,Middle,Delhi Daredevils,982,717,33,66
+2018,Middle,Kings XI Punjab,929,750,38,50
+2018,Middle,Kolkata Knight Riders,1178,884,40,88
+2018,Middle,Mumbai Indians,1059,780,33,84
+2018,Middle,Rajasthan Royals,983,810,44,68
+2018,Middle,Royal Challengers Bangalore,969,729,40,64
+2018,Middle,Sunrisers Hyderabad,1241,945,28,103
+2018,Powerplay,Chennai Super Kings,780,589,20,82
+2018,Powerplay,Delhi Daredevils,695,523,25,82
+2018,Powerplay,Kings XI Punjab,722,513,21,85
+2018,Powerplay,Kolkata Knight Riders,875,593,26,103
+2018,Powerplay,Mumbai Indians,702,524,20,77
+2018,Powerplay,Rajasthan Royals,779,556,19,89
+2018,Powerplay,Royal Challengers Bangalore,715,514,17,91
+2018,Powerplay,Sunrisers Hyderabad,795,638,26,95
+2019,Death,Chennai Super Kings,742,478,27,45
+2019,Death,Delhi Capitals,656,425,50,43
+2019,Death,Kings XI Punjab,637,418,32,51
+2019,Death,Kolkata Knight Riders,739,396,27,43
+2019,Death,Mumbai Indians,796,469,35,61
+2019,Death,Rajasthan Royals,576,389,34,43
+2019,Death,Royal Challengers Bangalore,647,382,32,49
+2019,Death,Sunrisers Hyderabad,585,385,42,39
+2019,Middle,Chennai Super Kings,1074,950,31,76
+2019,Middle,Delhi Capitals,1057,888,37,89
+2019,Middle,Kings XI Punjab,1113,782,27,72
+2019,Middle,Kolkata Knight Riders,1057,782,31,66
+2019,Middle,Mumbai Indians,1093,883,40,79
+2019,Middle,Rajasthan Royals,926,725,25,76
+2019,Middle,Royal Challengers Bangalore,853,710,28,50
+2019,Middle,Sunrisers Hyderabad,1028,828,30,59
+2019,Powerplay,Chennai Super Kings,657,622,30,84
+2019,Powerplay,Delhi Capitals,816,596,21,105
+2019,Powerplay,Kings XI Punjab,679,518,15,74
+2019,Powerplay,Kolkata Knight Riders,677,519,21,87
+2019,Powerplay,Mumbai Indians,781,590,17,90
+2019,Powerplay,Rajasthan Royals,692,499,17,87
+2019,Powerplay,Royal Challengers Bangalore,708,514,24,87
+2019,Powerplay,Sunrisers Hyderabad,845,564,12,100
+2020/21,Death,Chennai Super Kings,660,399,24,53
+2020/21,Death,Delhi Capitals,789,521,43,62
+2020/21,Death,Kings XI Punjab,646,404,28,45
+2020/21,Death,Kolkata Knight Riders,684,424,32,56
+2020/21,Death,Mumbai Indians,800,402,23,59
+2020/21,Death,Rajasthan Royals,632,381,28,41
+2020/21,Death,Royal Challengers Bangalore,675,415,34,46
+2020/21,Death,Sunrisers Hyderabad,623,435,41,55
+2020/21,Middle,Chennai Super Kings,932,779,22,68
+2020/21,Middle,Delhi Capitals,1234,948,33,75
+2020/21,Middle,Kings XI Punjab,1012,780,30,62
+2020/21,Middle,Kolkata Knight Riders,938,778,41,67
+2020/21,Middle,Mumbai Indians,1140,863,31,70
+2020/21,Middle,Rajasthan Royals,1006,779,33,56
+2020/21,Middle,Royal Challengers Bangalore,925,830,29,52
+2020/21,Middle,Sunrisers Hyderabad,1102,889,29,64
+2020/21,Powerplay,Chennai Super Kings,599,521,21,67
+2020/21,Powerplay,Delhi Capitals,757,639,29,100
+2020/21,Powerplay,Kings XI Punjab,699,533,18,74
+2020/21,Powerplay,Kolkata Knight Riders,600,523,23,74
+2020/21,Powerplay,Mumbai Indians,818,614,23,95
+2020/21,Powerplay,Rajasthan Royals,650,521,29,74
+2020/21,Powerplay,Royal Challengers Bangalore,689,574,16,80
+2020/21,Powerplay,Sunrisers Hyderabad,806,607,17,94
+2021,Death,Chennai Super Kings,836,460,26,71
+2021,Death,Delhi Capitals,646,438,23,56
+2021,Death,Kolkata Knight Riders,593,436,43,40
+2021,Death,Mumbai Indians,540,382,44,46
+2021,Death,Punjab Kings,561,389,31,36
+2021,Death,Rajasthan Royals,577,400,33,33
+2021,Death,Royal Challengers Bangalore,638,421,35,49
+2021,Death,Sunrisers Hyderabad,564,426,41,38
+2021,Middle,Chennai Super Kings,1169,900,39,76
+2021,Middle,Delhi Capitals,1060,886,36,80
+2021,Middle,Kolkata Knight Riders,1172,910,42,81
+2021,Middle,Mumbai Indians,901,741,37,59
+2021,Middle,Punjab Kings,994,766,35,57
+2021,Middle,Rajasthan Royals,996,790,37,73
+2021,Middle,Royal Challengers Bangalore,959,835,36,61
+2021,Middle,Sunrisers Hyderabad,858,781,35,45
+2021,Powerplay,Chennai Super Kings,728,589,16,85
+2021,Powerplay,Delhi Capitals,789,596,19,98
+2021,Powerplay,Kolkata Knight Riders,794,635,20,99
+2021,Powerplay,Mumbai Indians,676,518,14,76
+2021,Powerplay,Punjab Kings,595,521,15,62
+2021,Powerplay,Rajasthan Royals,623,512,25,81
+2021,Powerplay,Royal Challengers Bangalore,706,567,19,80
+2021,Powerplay,Sunrisers Hyderabad,662,526,16,69
+2022,Death,Chennai Super Kings,651,411,35,42
+2022,Death,Delhi Capitals,630,370,21,40
+2022,Death,Gujarat Titans,805,484,31,62
+2022,Death,Kolkata Knight Riders,529,328,30,39
+2022,Death,Lucknow Super Giants,759,456,33,48
+2022,Death,Mumbai Indians,642,393,35,43
+2022,Death,Punjab Kings,562,386,33,42
+2022,Death,Rajasthan Royals,870,529,42,55
+2022,Death,Royal Challengers Bangalore,769,454,37,59
+2022,Death,Sunrisers Hyderabad,580,369,33,44
+2022,Middle,Chennai Super Kings,1007,781,30,77
+2022,Middle,Delhi Capitals,953,755,37,66
+2022,Middle,Gujarat Titans,1118,888,30,88
+2022,Middle,Kolkata Knight Riders,1084,784,47,69
+2022,Middle,Lucknow Super Giants,1119,829,31,71
+2022,Middle,Mumbai Indians,949,774,40,57
+2022,Middle,Punjab Kings,1008,798,45,72
+2022,Middle,Rajasthan Royals,1219,945,36,94
+2022,Middle,Royal Challengers Bangalore,1167,910,38,80
+2022,Middle,Sunrisers Hyderabad,1027,737,28,56
+2022,Powerplay,Chennai Super Kings,630,527,23,65
+2022,Powerplay,Delhi Capitals,758,525,23,99
+2022,Powerplay,Gujarat Titans,740,599,21,100
+2022,Powerplay,Kolkata Knight Riders,610,522,27,69
+2022,Powerplay,Lucknow Super Giants,670,555,25,69
+2022,Powerplay,Mumbai Indians,626,524,19,73
+2022,Powerplay,Punjab Kings,773,528,21,86
+2022,Powerplay,Rajasthan Royals,854,633,19,102
+2022,Powerplay,Royal Challengers Bangalore,696,601,23,83
+2022,Powerplay,Sunrisers Hyderabad,590,517,19,70
+2023,Death,Chennai Super Kings,685,420,28,39
+2023,Death,Delhi Capitals,545,416,38,41
+2023,Death,Gujarat Titans,869,475,31,52
+2023,Death,Kolkata Knight Riders,662,418,36,45
+2023,Death,Lucknow Super Giants,681,433,36,38
+2023,Death,Mumbai Indians,747,442,39,56
+2023,Death,Punjab Kings,804,437,37,53
+2023,Death,Rajasthan Royals,644,362,26,50
+2023,Death,Royal Challengers Bangalore,612,402,31,45
+2023,Death,Sunrisers Hyderabad,663,423,30,52
+2023,Middle,Chennai Super Kings,1184,825,42,65
+2023,Middle,Delhi Capitals,945,780,38,74
+2023,Middle,Gujarat Titans,1297,938,34,84
+2023,Middle,Kolkata Knight Riders,1101,781,32,77
+2023,Middle,Lucknow Super Giants,1083,834,45,64
+2023,Middle,Mumbai Indians,1311,887,33,110
+2023,Middle,Punjab Kings,1022,784,34,79
+2023,Middle,Rajasthan Royals,985,745,40,57
+2023,Middle,Royal Challengers Bangalore,1113,779,37,64
+2023,Middle,Sunrisers Hyderabad,1048,782,36,73
+2023,Powerplay,Chennai Super Kings,843,559,9,93
+2023,Powerplay,Delhi Capitals,692,522,28,95
+2023,Powerplay,Gujarat Titans,888,637,21,122
+2023,Powerplay,Kolkata Knight Riders,700,529,29,80
+2023,Powerplay,Lucknow Super Giants,715,565,22,81
+2023,Powerplay,Mumbai Indians,887,596,22,99
+2023,Powerplay,Punjab Kings,730,531,28,95
+2023,Powerplay,Rajasthan Royals,790,526,18,108
+2023,Powerplay,Royal Challengers Bangalore,777,512,12,93
+2023,Powerplay,Sunrisers Hyderabad,665,523,24,91
+2024,Death,Chennai Super Kings,742,419,24,50
+2024,Death,Delhi Capitals,641,372,29,45
+2024,Death,Gujarat Titans,581,352,30,55
+2024,Death,Kolkata Knight Riders,562,304,27,39
+2024,Death,Lucknow Super Giants,668,410,24,56
+2024,Death,Mumbai Indians,648,377,36,37
+2024,Death,Punjab Kings,673,397,28,43
+2024,Death,Rajasthan Royals,719,418,28,53
+2024,Death,Royal Challengers Bengaluru,816,431,38,61
+2024,Death,Sunrisers Hyderabad,734,444,33,40
+2024,Middle,Chennai Super Kings,1049,779,34,68
+2024,Middle,Delhi Capitals,1035,738,37,75
+2024,Middle,Gujarat Titans,903,671,33,69
+2024,Middle,Kolkata Knight Riders,1175,759,28,91
+2024,Middle,Lucknow Super Giants,1120,794,34,73
+2024,Middle,Mumbai Indians,1131,783,35,95
+2024,Middle,Punjab Kings,1071,777,41,68
+2024,Middle,Rajasthan Royals,1155,850,34,74
+2024,Middle,Royal Challengers Bengaluru,1238,835,40,69
+2024,Middle,Sunrisers Hyderabad,1245,870,43,64
+2024,Powerplay,Chennai Super Kings,733,521,19,91
+2024,Powerplay,Delhi Capitals,897,531,28,109
+2024,Powerplay,Gujarat Titans,556,450,16,59
+2024,Powerplay,Kolkata Knight Riders,930,531,21,108
+2024,Powerplay,Lucknow Super Giants,695,524,26,77
+2024,Powerplay,Mumbai Indians,789,526,25,83
+2024,Powerplay,Punjab Kings,743,519,23,102
+2024,Powerplay,Rajasthan Royals,773,564,19,109
+2024,Powerplay,Royal Challengers Bengaluru,876,552,21,99
+2024,Powerplay,Sunrisers Hyderabad,1073,605,29,113
+2025,Death,Chennai Super Kings,678,440,30,38
+2025,Death,Delhi Capitals,648,368,29,55
+2025,Death,Gujarat Titans,708,428,42,46
+2025,Death,Kolkata Knight Riders,486,274,24,45
+2025,Death,Lucknow Super Giants,698,427,38,49
+2025,Death,Mumbai Indians,716,401,29,56
+2025,Death,Punjab Kings,768,409,27,50
+2025,Death,Rajasthan Royals,598,372,33,38
+2025,Death,Royal Challengers Bengaluru,626,355,30,47
+2025,Death,Sunrisers Hyderabad,613,351,30,43
+2025,Middle,Chennai Super Kings,1032,779,36,66
+2025,Middle,Delhi Capitals,1103,773,32,76
+2025,Middle,Gujarat Titans,1354,847,24,117
+2025,Middle,Kolkata Knight Riders,793,646,40,55
+2025,Middle,Lucknow Super Giants,1251,794,30,94
+2025,Middle,Mumbai Indians,1261,883,37,105
+2025,Middle,Punjab Kings,1419,955,44,98
+2025,Middle,Rajasthan Royals,1091,777,40,73
+2025,Middle,Royal Challengers Bengaluru,1145,799,34,86
+2025,Middle,Sunrisers Hyderabad,1145,743,31,81
+2025,Powerplay,Chennai Super Kings,731,525,29,95
+2025,Powerplay,Delhi Capitals,749,528,27,90
+2025,Powerplay,Gujarat Titans,830,562,12,93
+2025,Powerplay,Kolkata Knight Riders,723,461,18,73
+2025,Powerplay,Lucknow Super Giants,783,523,14,75
+2025,Powerplay,Mumbai Indians,935,602,20,99
+2025,Powerplay,Punjab Kings,1075,668,32,119
+2025,Powerplay,Rajasthan Royals,925,531,21,100
+2025,Powerplay,Royal Challengers Bengaluru,882,559,18,106
+2025,Powerplay,Sunrisers Hyderabad,761,505,22,95
+2026,Death,Chennai Super Kings,620,392,24,60
+2026,Death,Delhi Capitals,675,387,30,46
+2026,Death,Gujarat Titans,697,450,32,54
+2026,Death,Kolkata Knight Riders,547,330,17,49
+2026,Death,Lucknow Super Giants,642,393,34,49
+2026,Death,Mumbai Indians,633,388,30,48
+2026,Death,Punjab Kings,690,356,23,48
+2026,Death,Rajasthan Royals,641,391,34,39
+2026,Death,Royal Challengers Bengaluru,696,384,21,47
+2026,Death,Sunrisers Hyderabad,688,414,38,45
+2026,Middle,Chennai Super Kings,1070,779,30,67
+2026,Middle,Delhi Capitals,1156,790,31,93
+2026,Middle,Gujarat Titans,1413,955,39,115
+2026,Middle,Kolkata Knight Riders,1042,725,33,67
+2026,Middle,Lucknow Super Giants,1004,790,42,74
+2026,Middle,Mumbai Indians,1141,762,32,85
+2026,Middle,Punjab Kings,1167,735,33,79
+2026,Middle,Rajasthan Royals,1315,860,41,101
+2026,Middle,Royal Challengers Bengaluru,1361,857,40,98
+2026,Middle,Sunrisers Hyderabad,1365,854,40,105
+2026,Powerplay,Chennai Super Kings,840,535,30,93
+2026,Powerplay,Delhi Capitals,728,529,26,86
+2026,Powerplay,Gujarat Titans,984,643,20,123
+2026,Powerplay,Kolkata Knight Riders,724,513,27,76
+2026,Powerplay,Lucknow Super Giants,866,527,19,86
+2026,Powerplay,Mumbai Indians,779,517,28,71
+2026,Powerplay,Punjab Kings,854,498,18,92
+2026,Powerplay,Rajasthan Royals,1120,604,24,117
+2026,Powerplay,Royal Challengers Bengaluru,1000,595,23,116
+2026,Powerplay,Sunrisers Hyderabad,997,574,23,105
